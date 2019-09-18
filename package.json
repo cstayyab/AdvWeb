@@ -1,0 +1,24 @@
+{
+  "name": "webadv",
+  "version": "1.0.0",
+  "description": "Practice Codes for Advance Web Class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cstayyab/AdvWeb.git"
+  },
+  "keywords": [
+    "web",
+    "node",
+    "npm"
+  ],
+  "author": "cstayyab <cstayyab@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cstayyab/AdvWeb/issues"
+  },
+  "homepage": "https://github.com/cstayyab/AdvWeb#readme"
+}
