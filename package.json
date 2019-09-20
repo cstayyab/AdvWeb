@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/cstayyab/AdvWeb#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "node-static": "^0.7.11"
   }
 }
