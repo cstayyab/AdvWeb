@@ -4,7 +4,9 @@
   "description": "Practice Codes for Advance Web Class",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "static": "node static.js",
+    "nodestatic": "node public.js"
   },
   "repository": {
     "type": "git",
