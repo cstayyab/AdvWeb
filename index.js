@@ -13,3 +13,4 @@ if(req.url=== "/" && req.method === "GET") {
     res.end("<h1>404 Not Found</h1>")
 }
 }).listen(8000)
+console.log("Serving on port 8000");

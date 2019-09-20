@@ -19,3 +19,4 @@ http.createServer((req, res) => {
         res.end();
     })
 }).listen(8080)
+console.log("Serving on port 8080");
