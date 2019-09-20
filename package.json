@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "static": "node static.js",
-    "nodestatic": "node public.js"
+    "nodestatic": "node public.js",
+    "basic": "node index.js"
   },
   "repository": {
     "type": "git",
