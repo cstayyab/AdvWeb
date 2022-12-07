@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/cstayyab/AdvWeb#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mongoose": "latest",
     "node-static": "^0.7.11"
   }
